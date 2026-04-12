@@ -1,0 +1,195 @@
+{
+    "profileData": {
+        "name": "Prachi Karle",
+        "title": "Full Stack Developer",
+        "location": "Pune, India",
+        "email": "prachikarle03@gmail.com",
+        "phone": "+91 9209332399",
+        "summary": "I am a motivated computer professional seeking a position to apply my development skills and contribute to organizational success. Passionate about continuous learning and problem solving. I am eager to join a dynamic team and grow both personally and professionally.",
+        "social": {
+            "linkedin": "https://linkedin.com/in/prachi-karle-789277296",
+            "github": "https://github.com/PrachiKarle",
+            "leetcode": "https://leetcode.com/u/prachi_karle/"
+        },
+        "resumeUrl": "https://drive.google.com/file/d/1gT6JScrVacAkuL6oQ3pG_W7479yGmulX/view?usp=sharing"
+    },
+    "skills": {
+        "Programming Languages": [
+            "JavaScript (ES6+)",
+            "TypeScript",
+            "Python",
+            "C++"
+        ],
+        "Web Technologies": [
+            "HTML5",
+            "CSS3",
+            "Tailwind CSS",
+            "Bootstrap",
+            "Next.js",
+            "Node.js",
+            "Express.js",
+            "REST API"
+        ],
+        "Frameworks/Libraries": [
+            "React.js",
+            "Redux"
+        ],
+        "Databases": [
+            "MySQL"
+        ],
+        "Tools/Concepts": [
+            "Data Structures and Algorithm",
+            "Git and Github",
+            "Generative & Agentic AI"
+        ]
+    },
+    "education": [
+        {
+            "degree": "Bachelor of Engineering (Computer)",
+            "institution": "Shri Chattrapati Shivaji Maharaj College of Engineering",
+            "duration": "08/2021 - 06/2025",
+            "grade": "8.38 CGPA | First class with distinction"
+        },
+        {
+            "degree": "Higher Secondary Education (Science)",
+            "institution": "New Arts, Commerce and Science College, Ahilynagar",
+            "duration": "06/2020 - 05/2021",
+            "grade": "85.33%"
+        }
+    ],
+    "projects": [
+        {
+            "name": "UMINEX (E-Commerce)",
+            "description": "Modern, responsive e-commerce platform for electronic product shopping. Built using React.js, focusing on smooth UI/UX and core e-commerce features.",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "Bootstrap",
+                "JavaScript",
+                "React.js",
+                "Git and Github"
+            ],
+            "liveLink": "https://umino.netlify.app/",
+            "githubLink": "https://github.com/PrachiKarle/UMINEX"
+        },
+        {
+            "name": "VisionSphere",
+            "description": "Responsive platform for browsing and purchasing eyewear. Built using React.js, implemented interactive UI for product filtering and enhanced shopping experience.",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "Bootstrap",
+                "JavaScript",
+                "React.js",
+                "Git and Github"
+            ],
+            "liveLink": "https://visionsphere.netlify.app/",
+            "githubLink": "https://github.com/PrachiKarle/VisionSphere"
+        },
+        {
+            "name": "Restoran",
+            "description": "Full-stack restaurant management system with frontend in React.js and backend using Node.js, Express.js, and MySQL.",
+            "technologies": [
+                "JavaScript",
+                "Node.js",
+                "Express.js",
+                "MySQL",
+                "REST API",
+                "Git and Github"
+            ],
+            "liveLink": null,
+            "githubLink": "https://github.com/PrachiKarle/Restoran_backend"
+        },
+        {
+            "name": "SmartFashion",
+            "description": "Full-stack e-commerce web application for women's fashion with product management and admin controls.",
+            "technologies": [
+                "JavaScript",
+                "Node.js",
+                "Express.js",
+                "MySQL",
+                "REST API",
+                "Git and Github"
+            ],
+            "liveLink": null,
+            "githubLink": "https://github.com/PrachiKarle/smartFashion_Backend"
+        },
+        {
+            "name": "Material Depot",
+            "description": "Modern interior design and materials showcase website with responsive layouts and smooth navigation.",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "React.js",
+                "Bootstrap",
+                "Git and Github"
+            ],
+            "liveLink": "https://materialdepot.netlify.app/",
+            "githubLink": "https://github.com/PrachiKarle/materialdepot"
+        },
+        {
+            "name": "Unix Salon",
+            "description": "Stylish salon website featuring services, pricing, and engaging UI.",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "React.js",
+                "Bootstrap",
+                "Git and Github"
+            ],
+            "liveLink": "https://unixsalon.netlify.app/",
+            "githubLink": "https://github.com/PrachiKarle/Unix"
+        },
+        {
+            "name": "Furnitures",
+            "description": "Responsive furniture showcase website with category-wise display and clean design.",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "React.js",
+                "Bootstrap",
+                "Git and Github"
+            ],
+            "liveLink": "https://furniturecloudinfotechs.netlify.app/",
+            "githubLink": "https://github.com/PrachiKarle/Furniture"
+        },
+        {
+            "name": "Redbytes Mobile App Website",
+            "description": "Website showcasing mobile app development services with responsive UI.",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "JavaScript",
+                "React.js",
+                "Git and Github"
+            ],
+            "liveLink": "https://redbytes.netlify.app/ourapp",
+            "githubLink": "https://github.com/PrachiKarle/React-Project"
+        }
+    ],
+    "certifications": [
+        {
+            "title": "Frontend Development With React.js And JavaScript",
+            "date": "November 2024",
+            "link": "https://www.cert.devtown.in/verify/ZAvssJ"
+        },
+        {
+            "title": "Generative and Agentic AI With Python",
+            "date": "February 2026",
+            "link": "https://www.udemy.com/certificate/UC-e531acff-8bb1-4705-b6e6-8dd7e1c69108/"
+        }
+    ],
+    "awards": [
+        {
+            "title": "Winner WebWizard Hackathon",
+            "description": "A competitive coding event focused on building innovative web solutions."
+        },
+        {
+            "title": "Leetcode Problem Solving",
+            "description": "Solved 400+ problems demonstrating strong problem-solving skills."
+        }
+    ]
+}
