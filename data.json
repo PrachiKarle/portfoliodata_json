@@ -1,5 +1,6 @@
 {
     "profileData": {
+        "id":1,
         "name": "Prachi Karle",
         "title": "Full Stack Developer",
         "location": "Pune, India",
@@ -45,12 +46,14 @@
     },
     "education": [
         {
+            "id":1,
             "degree": "Bachelor of Engineering (Computer)",
             "institution": "Shri Chattrapati Shivaji Maharaj College of Engineering",
             "duration": "08/2021 - 06/2025",
             "grade": "8.38 CGPA | First class with distinction"
         },
         {
+            "id":2,
             "degree": "Higher Secondary Education (Science)",
             "institution": "New Arts, Commerce and Science College, Ahilynagar",
             "duration": "06/2020 - 05/2021",
@@ -59,22 +62,40 @@
     ],
     "projects": [
         {
-            "name": "UMINEX (E-Commerce)",
-            "description": "Modern, responsive e-commerce platform for electronic product shopping. Built using React.js, focusing on smooth UI/UX and core e-commerce features.",
+            "id": 1,
+            "name": "Bean & Brew",
+            "description": "Premium, responsive cafe ordering website built using Next.js, React, and Tailwind CSS. Includes menu search and filtering, INR-based cart and checkout, table reservations, contact forms, responsive navigation, and Pune-focused business details.",
             "technologies": [
-                "HTML5",
-                "CSS3",
-                "Bootstrap",
-                "JavaScript",
+                "Next.js",
                 "React.js",
+                "Tailwind CSS",
+                "JavaScript",
                 "Git and Github"
             ],
-            "liveLink": "https://umino.netlify.app/",
-            "githubLink": "https://github.com/PrachiKarle/UMINEX"
+            "liveLink": null,
+            "githubLink": null
         },
         {
+            "id": 2,
+            "name": "Restoran",
+            "description": "Full-stack restaurant management system with React.js frontend and Node.js, Express.js, and MySQL backend. Includes 8+ REST API endpoints, order placement, menu management, customer login, admin dashboard, and role-based access control.",
+            "technologies": [
+                "JavaScript",
+                "React.js",
+                "Node.js",
+                "Express.js",
+                "MySQL",
+                "REST API",
+                "JWT",
+                "Git and Github"
+            ],
+            "liveLink": null,
+            "githubLink": "https://github.com/PrachiKarle/Restoran_backend"
+        },
+        {
+            "id": 3,
             "name": "VisionSphere",
-            "description": "Responsive platform for browsing and purchasing eyewear. Built using React.js, implemented interactive UI for product filtering and enhanced shopping experience.",
+            "description": "Responsive eyewear shopping platform for browsing and purchasing optical products, sunglasses, and designer frames. Built using React.js with interactive product filtering and an enhanced shopping experience.",
             "technologies": [
                 "HTML5",
                 "CSS3",
@@ -87,20 +108,22 @@
             "githubLink": "https://github.com/PrachiKarle/VisionSphere"
         },
         {
-            "name": "Restoran",
-            "description": "Full-stack restaurant management system with frontend in React.js and backend using Node.js, Express.js, and MySQL.",
+            "id": 4,
+            "name": "UMINEX (E-Commerce)",
+            "description": "Modern, responsive e-commerce platform for electronic product shopping. Built using React.js with 10+ pages, interactive product filtering, cart management, and cross-browser compatibility.",
             "technologies": [
+                "HTML5",
+                "CSS3",
+                "Bootstrap",
                 "JavaScript",
-                "Node.js",
-                "Express.js",
-                "MySQL",
-                "REST API",
+                "React.js",
                 "Git and Github"
             ],
-            "liveLink": null,
-            "githubLink": "https://github.com/PrachiKarle/Restoran_backend"
+            "liveLink": "https://umino.netlify.app/",
+            "githubLink": "https://github.com/PrachiKarle/UMINEX"
         },
         {
+            "id": 5,
             "name": "SmartFashion",
             "description": "Full-stack e-commerce web application for women's fashion with product management and admin controls.",
             "technologies": [
@@ -115,6 +138,7 @@
             "githubLink": "https://github.com/PrachiKarle/smartFashion_Backend"
         },
         {
+            "id": 6,
             "name": "Material Depot",
             "description": "Modern interior design and materials showcase website with responsive layouts and smooth navigation.",
             "technologies": [
@@ -129,8 +153,9 @@
             "githubLink": "https://github.com/PrachiKarle/materialdepot"
         },
         {
+            "id": 7,
             "name": "Unix Salon",
-            "description": "Stylish salon website featuring services, pricing, and engaging UI.",
+            "description": "Stylish salon website featuring services, pricing, and an engaging responsive user interface.",
             "technologies": [
                 "HTML5",
                 "CSS3",
@@ -143,8 +168,9 @@
             "githubLink": "https://github.com/PrachiKarle/Unix"
         },
         {
+            "id": 8,
             "name": "Furnitures",
-            "description": "Responsive furniture showcase website with category-wise display and clean design.",
+            "description": "Responsive furniture showcase website with category-wise product display and clean modern design.",
             "technologies": [
                 "HTML5",
                 "CSS3",
@@ -157,8 +183,9 @@
             "githubLink": "https://github.com/PrachiKarle/Furniture"
         },
         {
+            "id": 9,
             "name": "Redbytes Mobile App Website",
-            "description": "Website showcasing mobile app development services with responsive UI.",
+            "description": "Responsive website showcasing mobile application development services with modern UI and interactive sections.",
             "technologies": [
                 "HTML5",
                 "CSS3",
@@ -172,11 +199,13 @@
     ],
     "certifications": [
         {
+            "id":1,
             "title": "Frontend Development With React.js And JavaScript",
             "date": "November 2024",
             "link": "https://www.cert.devtown.in/verify/ZAvssJ"
         },
         {
+            "id":2,
             "title": "Generative and Agentic AI With Python",
             "date": "February 2026",
             "link": "https://www.udemy.com/certificate/UC-e531acff-8bb1-4705-b6e6-8dd7e1c69108/"
@@ -184,10 +213,12 @@
     ],
     "awards": [
         {
+            "id":1,
             "title": "Winner WebWizard Hackathon",
             "description": "A competitive coding event focused on building innovative web solutions."
         },
         {
+            "id":2,
             "title": "Leetcode Problem Solving",
             "description": "Solved 400+ problems demonstrating strong problem-solving skills."
         }
